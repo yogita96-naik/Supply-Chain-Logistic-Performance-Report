@@ -38,6 +38,11 @@ Recommendations
                    Review supplier performance for Germany and Vietnam and identify the root causes of overdue purchase orders.
                    Evaluate carrier performance beyond cost by considering on-time delivery, lead time, and shipment cost together.
                    Investigate the causes behind the 37% on-time delivery rate, including carrier delays, warehouse processing, and transit issues.
-                   Use customer-location insights to support inventory allocation and logistics planning across major dem
+                   Use customer-location insights to support inventory allocation and logistics planning across major demanding Regions
+                   
+  7 Snapshot .Overview  https://github.com/yogita96-naik/Supply-Chain-Logistic-Performance-Report/blob/main/overview.PNG
+              Procurement https://github.com/yogita96-naik/Supply-Chain-Logistic-Performance-Report/blob/main/Procurement%20snapshot.PNG
+              Inventory https://github.com/yogita96-naik/Supply-Chain-Logistic-Performance-Report/blob/main/Inventory%20snapshot.PNG
+              Shipment https://github.com/yogita96-naik/Supply-Chain-Logistic-Performance-Report/blob/main/Shipment%20snapshot.PNG
 
 
