@@ -1,5 +1,5 @@
 1.Project Title : Supply Chain & Logistics Performance Tracker is a comprehensive Power BI dashboard designed to track and analyze the performance 
-                  of the end-to-end supply chain, covering Procurement, Inventory and Logistics.
+                  of the end-to-end supply chain, covering Procurement, Inventory and Logistics. 
                   
 2.Description :   The Supply Chain Tracker is a dynamic Power BI dashboard designed to analyze and understand demand and supply patterns across the end-to-end supply chain and support                       data driven business improvement. The dashboard is designed according to the Indian Fiscal year and provides a consolidated view of Procurement, Inventory, 
                   and Logistics performance. It enables users to analyze pending  PO value across suppliers from seven country monitor inventory levels across India, and dynamically track                   inventory  transactions and shipment performance through various carriers
