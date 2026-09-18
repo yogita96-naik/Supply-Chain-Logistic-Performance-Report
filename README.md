@@ -1,10 +1,14 @@
 1.Project Title : Supply Chain & Logistics Performance Tracker is a comprehensive Power BI dashboard designed to track and analyze the performance 
                   of the end-to-end supply chain, covering Procurement, Inventory and Logistics.
+                  
 2.Description :   The Supply Chain Tracker is a dynamic Power BI dashboard designed to analyze and understand demand and supply patterns across the end-to-end supply chain and support                       data driven business improvement. The dashboard is designed according to the Indian Fiscal year and provides a consolidated view of Procurement, Inventory, 
                   and Logistics performance. It enables users to analyze pending  PO value across suppliers from seven country monitor inventory levels across India, and dynamically track                   inventory  transactions and shipment performance through various carriers
+                  
 3.Tool Stack :    The dashboard was built using following tools and technologies, Power Bi Desktop - Main data visualization platform used for Report creation.
                   Power Query - Data cleaning, preparation and reshaping the data . Features used DAX ,Tooltip, Bookmark, Page  Navigation, Fields.
-4.Data Modelling :Relation established between fact tables and dimension table DAX (Data Analytical Expression)- Used to create measure, columns, time intelligence                                              function used to make it according to Indian Annual Calendar . File format - pbit for development and PDF fie preview
+                  
+4.Data Modelling :Relation established between fact tables and dimension table DAX (Data Analytical Expression)- Used to create measure, columns, time intelligence                                              function used to make it according to Indian Annual Calendar . File format - pbit for development and PDF fie preview.
+
 5.Highlights:     The dashboard is designed to address key supply chain and logistics challenges across the complete business process:
                   Procurement Bottlenecks: Identify pending purchase orders and analyze pending PO value across 7 supplier countries to highlight procurement dependencies.
                   Product & Category Performance: Analyze 500 products across 6 product categories to understand demand, supply, and product-level performance.
@@ -15,6 +19,7 @@
                   Warehouse Performance: Compare inventory and transaction activity across multiple warehouses to identify variations in stock levels and movement.
                   End-to-End Supply Chain Monitoring: Provide a consolidated view from Procurement → Inventory → Logistics, enabling users to track business performance 
                   dynamically through interactive KPIs, filters, and visualization.
+                  
 6. Key Insights & Recommendations
   Key Insights
                     Severe Stock Availability Issue: Out of 500 products, 493 are currently out of stock, indicating a significant inventory availability gap. 
