@@ -20,7 +20,7 @@
                   End-to-End Supply Chain Monitoring: Provide a consolidated view from Procurement → Inventory → Logistics, enabling users to track business performance 
                   dynamically through interactive KPIs, filters, and visualization.
                   
-6. Key Insights & Recommendations
+6.Key Insights & Recommendations
   Key Insights
                     Severe Stock Availability Issue: Out of 500 products, 493 are currently out of stock, indicating a significant inventory availability gap. 
                     The Inventory Turnover Ratio is 5, while the closing inventory value is approximately -₹1.93 million.
